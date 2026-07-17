@@ -1,0 +1,14 @@
+{
+  "name": "bluesky-jetstream-listener",
+  "version": "1.0.0",
+  "description": "Bluesky Jetstream listener for n8n",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "ws": "^8.18.0"
+  }
+}
